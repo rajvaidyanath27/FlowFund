@@ -2,6 +2,7 @@ FundRaiseNow is a modern, responsive crowdfunding platform that allows individua
 
 
 🔑 Key Features:
+
 🧾 Campaign Creation: Users can create campaigns with images, goals, and detailed descriptions.
 
 💳 Secure Payments: Integrated with Stripe for secure donation handling.
