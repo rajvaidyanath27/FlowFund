@@ -9,7 +9,7 @@ const CardDeal = () => (
         Find a better card deal <br className="sm:block hidden" /> in few easy
         steps.
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      <p className={`${styles.paragraph} max-w-[470px] mt-5 text-white font-poppins font-medium`}>
         Compare and choose the best credit or debit card tailored to your needs. Save time and money with our quick, step-by-step process that finds you the ideal card in minutes.
       </p>
 

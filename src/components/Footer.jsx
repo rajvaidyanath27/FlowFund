@@ -11,12 +11,12 @@ const Footer = () => (
           alt="hoobank"
           className="w-[266px] h-[72.14px] object-contain"
         />
-        <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
+        <p className={`${styles.paragraph} mt-4 max-w-[312px] text-white font-poppins font-medium`}>
           A new way to make the payments easy, reliable and secure.
         </p>
       </div>
 
-      <div className="flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10">
+      <div className="flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10 text-white font-poppins font-medium">
         {footerLinks.map((footerlink) => (
           <div key={footerlink.title} className={`flex flex-col ss:my-0 my-4 min-w-[150px]`}>
             <h4 className="font-poppins font-medium text-[18px] leading-[27px] text-white">
@@ -44,7 +44,7 @@ const Footer = () => (
         Copyright Ⓒ 2022 HooBank. All Rights Reserved.
       </p>
 
-      <div className="flex flex-row md:mt-0 mt-6">
+      <div className="flex flex-row md:mt-0 mt-6 text-white font-poppins font-medium">
         {socialMedia.map((social, index) => (
           <img
             key={social.id}

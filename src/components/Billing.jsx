@@ -17,7 +17,7 @@ const Billing = () => (
         Easily control your <br className="sm:block hidden" /> billing &
         invoicing
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      <p className={`${styles.paragraph} max-w-[470px] mt-5 text-white font-poppins font-medium`}>
        Manage all your billing and invoicing tasks in one place. Simplify payments, track transactions, and stay organized with ease.
       </p>
 
