@@ -1,12 +1,22 @@
-# React + Vite
+FundRaiseNow is a modern, responsive crowdfunding platform that allows individuals and organizations to create fundraising campaigns and receive donations online. The platform ensures a smooth and secure donation process, offering transparency, real-time campaign tracking, and payment integration.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🔑 Key Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧾 Campaign Creation: Users can create campaigns with images, goals, and detailed descriptions.
 
-## Expanding the ESLint configuration
+💳 Secure Payments: Integrated with Stripe for secure donation handling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔎 Campaign Discovery: Search and filter campaigns by category, popularity, and location.
+
+📊 Live Progress Bar: Real-time updates on donation goals and amounts raised.
+
+👤 User Authentication: Signup/Login with JWT; secure user dashboards.
+
+🖼 Image Uploads: Cloudinary integration for optimized media handling.
+
+📱 Responsive Design: Mobile-friendly, clean UI with Tailwind CSS.
+
+🧮 Admin Panel: Manage all campaigns, users, and monitor fraud detection flags.
+
+
