@@ -13,7 +13,7 @@ FlowFund is a modern, responsive crowdfunding platform that allows individuals a
 
 📊 Live Progress Bar: Real-time updates on donation goals and amounts raised.
 
-👤 User Authentication: Signup/Login with JWT; secure user dashboards.
+👤 User Authentication: Signup/Login with JWT; secure user dashboards
 
 🖼 Image Uploads: Cloudinary integration for optimized media handling.
 
