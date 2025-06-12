@@ -19,6 +19,6 @@ FlowFund is a modern, responsive crowdfunding platform that allows individuals a
 
 📱   Responsive Design: Mobile-friendly, clean UI with Tailwind CSS.
 
-🧮   Admin Panel: Manage all campaigns, users, and monitor fraud detection flags
+🧮   Admin Panel: Manage all campaigns, users, and monitor fraud detection flags.
 
 
